@@ -35,7 +35,7 @@ Installation
 
 
 ```bash
-git clone https://github.com/sanskar-sudo/Snortify.git
+git clone https://github.com/0xAdityaRai/Snortify.git
 
 cd snort-rule-generator
 
